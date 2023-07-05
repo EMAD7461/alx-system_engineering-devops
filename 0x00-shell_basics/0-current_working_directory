@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
+pwd
+=======
 which
+>>>>>>> b07b73d08ba2ba8404d415023ca89b542330017d
